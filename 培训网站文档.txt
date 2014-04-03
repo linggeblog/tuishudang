@@ -1,0 +1,5 @@
+培训网站文档
+用户系统，学习论坛，文章系统
+
+用户表：username,password,name,email,contact,create_time
+文章表：标题，内容，链接，图片
